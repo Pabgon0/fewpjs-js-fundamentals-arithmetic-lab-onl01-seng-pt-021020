@@ -1,1 +1,3 @@
-let multiply = 1 * 62
+let num1 = 1,
+    num2 = 62
+    multiply = num1 *num2
